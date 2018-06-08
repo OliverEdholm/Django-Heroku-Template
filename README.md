@@ -12,6 +12,7 @@ Django template for developing good web apps that are being uploaded to Heroku f
 
     $ git clone https://github.com/OliverEdholm/Django-Heroku-Template
     $ cd Django-Heroku-Template
+    $ pipenv install
 
 ## How to activate virtual environment
 This template uses PipEnv which Heroku also encourages you to use. To activate your virtual environment run...
