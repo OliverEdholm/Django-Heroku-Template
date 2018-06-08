@@ -1,1 +1,1 @@
-# Nya Klubbanmälan
+# Django Heroku Template
