@@ -23,3 +23,8 @@ Django template for developing good web apps that are being uploaded to Heroku f
     $ git push heroku master
 
     $ heroku run python manage.py migrate
+
+## How to test with PyTest
+There's a bash command you can execute to easily run your PyTest tests, avoiding common testing problems in Django.
+
+    $ bash bash_commands/run_tests.sh
